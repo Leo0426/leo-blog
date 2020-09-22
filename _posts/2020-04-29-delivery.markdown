@@ -1,0 +1,12 @@
+---
+layout: post
+title: "软件交付的一些想法"
+date: 2020-04-29
+categories:
+  - 软件交付
+description:
+image: /assets/pictures/delivery.png
+image-sm: /assets/pictures/delivery.png
+---
+
+## 从笔记搬运中，喝x杯茶，等我一下下...

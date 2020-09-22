@@ -1,0 +1,85 @@
+---
+layout: post
+title: "欢迎来到我的博客"
+date: 2020-04-29
+categories:
+  - 个人介绍
+description:
+image: /assets/pictures/wallhaven.jpg
+image-sm: /assets/pictures/wallhaven.jpg
+---
+___作为一个屌丝码农，痛定思痛还是要记录一下自己的学习计划，一方面作为回顾总结，一方面也可以给大家分享，如果存在问题也可以及时被发现；___
+
+## 个人技术梳理
+
+---  
+#### 数据结构和算法
+- 常用的数据结构
+- 有趣的算法
+
+#### DevOps和敏捷
+- 认识DevOps
+- 敏捷团队和Scrum实践
+- 敏捷开发和DevOps实践
+- 如何部署DevOps流水线
+- DevSecOps
+
+#### 容器化
+- Docker使用
+- Docker Machine
+- Docker Swarm
+- Docker在DevOps中的应用
+- Docker私服
+
+#### 虚拟化
+- Vagrant
+- VirtualBox
+
+#### GitLab
+- git pro
+- GitLab & gitLab Runner
+- CI/CD
+- PipeLine
+- QA
+
+#### 数据库
+- mysql8.0 
+- redis
+
+#### 前后端漏洞和防御技巧
+- 安全相关
+
+#### 编程
+- 编译原理
+- java相关
+
+#### 开源框架
+- Spring framework
+- Keycloak
+
+#### 设计模式
+- UML解析
+- 六大设计原则
+- 23种设计模式
+
+#### 测试
+- JUnit
+- Mock
+- 自动化
+- 监控
+
+#### shell
+- zsh
+
+#### 服务器
+- Linux
+- MAC OS
+- Nas
+
+#### 前端
+- VUE
+- jQuery
+- npm 
+- Jekyll
+
+以上，我会在以后的工作中慢慢补充相关内容，如果对我感兴趣的话，不妨互相Follow一下吧，下面是我的名片。

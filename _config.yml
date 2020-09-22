@@ -1,0 +1,48 @@
+# Site/SEO settings
+email: junlei0426@hotmail.com
+permalink: /:year/:month/:day/:title/
+google_analytics:
+
+title: Leo's Blog
+description: To be a better man.
+url: ""
+baseurl: ""
+twitter_username:
+default_img: /assets/pictures/profile.jpeg
+
+# Profile settings
+name: JunleiLu
+profile_img: /assets/pictures/profile.jpeg
+profile:
+  姓名：鲁军磊</br>
+  英文名：Leo</br>
+  坐标：北京,java开发</br>
+  特长：对Coding和DevOps有很强兴趣，正在结合敏捷和DevOps提升交付质量和效率的进程中.
+social:
+  github: https://github.com/Leo0426
+  cloud: https://gitee.com/leo0426
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - octopress-autoprefixer
+compress_html:
+  clippings: all
+  comments: all
+  startings: [html, head, body]
+exclude:
+  - .DS_Store
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE.txt
+  - README.md
+
+# Pagination
+paginate: 5
+paginate_path: "/blog/page-:num"
+
+# Sass
+sass:
+  style: compressed
